@@ -8,16 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/brentertz/scapegoat.git"
+    "url": "git@github.com:minqidev/s4u-adodb-client.git"
   },
   "keywords": [
     "escape",
     "unescape",
     "html"
   ],
-  "author": "Brent Ertz <brent.ertz@gmail.com> (http://brentertz.com/)",
+  "author": "Min Qi",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/brentertz/scapegoat/issues"
-  }
+    "url": ""
+  },
+  "dependencies": {
+    "node-adodb": "^2.0.0"
+    }
 }
