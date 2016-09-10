@@ -1,0 +1,23 @@
+{
+  "name": "s4u-adodb-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo wrong"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brentertz/scapegoat.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Brent Ertz <brent.ertz@gmail.com> (http://brentertz.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/brentertz/scapegoat/issues"
+  }
+}
